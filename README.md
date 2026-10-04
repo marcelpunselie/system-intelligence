@@ -4,6 +4,8 @@
 
 > **SI = RCL(SA)**
 
+![System Intelligence model](images/system-intelligence-model.png)
+
 System Intelligence is the capability of a socio-technical system to continuously understand its state and context, anticipate emerging conditions, and use that understanding to guide decisions and actions, validate their outcomes, and learn from the results.
 
 This repository explores a simple proposition:
@@ -24,6 +26,8 @@ Based on the established work of Mica Endsley:
 
 Situational Awareness turns signals and information into an understanding of what is happening, what it means, and what may happen next.
 
+![Situational Awareness model based on Endsley](images/situational-awareness-model.png)
+
 ### 2. Six data domains
 
 Reliable Situational Awareness requires a wider field of view than runtime telemetry alone.
@@ -37,6 +41,8 @@ The current model distinguishes six data domains:
 5. **Design & Architecture** — How was the system intended to work?
 6. **Customer & Business Context** — Why does it matter?
 
+   ![Six data domains for System Intelligence](images/data-domains.png)
+
 The value is not in the individual data domains. It emerges when information across those domains can be **connected, correlated and contextualized**.
 
 **System Intelligence emerges from the relationships between the data, not from the data alone.**
@@ -48,6 +54,8 @@ Situational Awareness alone does not change a system.
 The Reliability Control Loop (RCL) operationalizes that understanding through nine interconnected phases:
 
 **Design → Protect → Measure → Test → Prove → Learn → Enforce → Improve → Sustain**
+
+![Reliability Control Loop](images/reliability-control-loop.jpg)
 
 The important part is not any individual phase. It is the feedback between them.
 
