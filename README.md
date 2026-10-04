@@ -106,7 +106,11 @@ LinkedIn: https://www.linkedin.com/in/celtic/
 
 ## License
 
-Licensing information will be added before the first public release.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+
+You are free to share and adapt this work, including for commercial purposes, provided appropriate credit is given.
+
+© 2026 Marcel Punselie | Web Infra Academy
 
 ---
 
